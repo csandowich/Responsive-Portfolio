@@ -1,2 +1,2 @@
 # Responsive-Portfolio
-My basic portfolio made responsive.
+My basic Portfolio made responsive.
